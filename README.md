@@ -3,10 +3,10 @@
 
 GC>MIDI is an Arduino-based interface that takes input from any standard Gamecube Controller, translates those inputs to MIDI notes and CC data, and transmits them via both USB and 5-pin MIDI.
 
-GC>MIDI has three modes, a Drum Mode, a Synth Mode, and a mode specifically for the Donkey Konga Bongo controller. See the [Controller Mapping](https://github.com/po8aster/GCMIDIController/tree/master/Controller%20Mapping) section for details on how each mode functions. Pressing the button switches between modes, indicated by the LEDs.
+GC>MIDI has three modes, a Drum Mode, a Synth Mode, and a mode specifically for the Donkey Konga Bongo controller. See the [Controller Mapping](https://github.com/GetCircuitBent/GC-MIDI-Controller/tree/master/Controller%20Mapping) section for details on how each mode functions. Pressing the button switches between modes, indicated by the LEDs.
 
 ## Software:
-* See the [Code](https://github.com/po8aster/GCMIDIController/tree/master/Code) section to download or copy the code.
+* See the [Code](https://github.com/GetCircuitBent/GC-MIDI-Controller/tree/master/Code) section to download or copy the code.
   * If you aren't familiar with Ardunio IDE, loading sketches, and loading libraries there are lots of great tutorials out there, and I won't try to recreate that info here. But Google those terms and you should be on your way!
 * Required Libraries:
   * [MIDI Library - Francois Best](https://www.arduino.cc/reference/en/libraries/midi-library/)
@@ -15,7 +15,7 @@ GC>MIDI has three modes, a Drum Mode, a Synth Mode, and a mode specifically for 
 * If you want to change the USB MIDI Device Name after you've got it working, there is an excellent guide [here](http://liveelectronics.musinou.net/MIDIdeviceName.php) on how to do so. I am not quite sure how to credit the creator properly, but it was extremely helpful for me.
 
 ## Hardware:
-* See the [Schematic](https://github.com/po8aster/GCMIDIController/tree/master/Schematic) section for wiring diagram.
+* See the [Schematic](https://github.com/GetCircuitBent/GC-MIDI-Controller/tree/master/Schematic) section for wiring diagram.
 * Parts list:
   * Arduino Pro Micro - 5v Version
   * 220 Ohm Resistor x3 (1/4 watt is fine)

@@ -67,7 +67,7 @@ Now that we have our Boards and Libraries ready to go, we can start with some co
   ![image](https://user-images.githubusercontent.com/69469205/159946397-f8370afc-f682-4721-8382-4e6fb441fded.png)
 
 * In a new tab, open up the Code for whichever interface you are programming. Make sure you copy the right code for your controller or it won't work! 
-  * [GC>MIDI](https://github.com/po8aster/GCMIDIController/tree/master/Code)
+  * [GC>MIDI](https://github.com/GetCircuitBent/GC-MIDI-Controller/tree/master/Code)
   * [N64>MIDI](https://github.com/po8aster/N64MIDIController/tree/master/Code)
 * The easiest way to bring the code over is just to copy and paste, which is what I will do here. But for the record you could download the sketch and load it into the IDE directly if you already know how to do that.
 * Open the latest version of my code by clicking the Filename.
