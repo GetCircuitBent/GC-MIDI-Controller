@@ -28,3 +28,8 @@ GC>MIDI has three modes, a Drum Mode, a Synth Mode, and a mode specifically for 
 * For more details on hooking things up, take a look at NicoHood's library linked above. My project simply modifies that project to convert inputs to MIDI signals on the code side, so reading over those guides is well worth your time.
   
 #### If you build it and like it, please consider a small donation using the Sponsor button to buy me a beer for my efforts. Obviously not required at all, but always appreciated! 
+
+
+---
+
+Copyright (C) 2020 Get Circuit Bent LLC. Licensed under the [GNU General Public License v3.0](LICENSE). Contact: info@getcircuitbent.com
